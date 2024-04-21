@@ -1,6 +1,7 @@
 # 💼 Customer Churn Classification Prediction Project
 
-![article head image](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/e7431285-8c21-4c3c-9340-60fe57f7bc3f)
+
+![Churn photo](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/7b7d264b-3365-4f01-a5f6-fe60ab7db44a)
 
 In the dynamic and ever-evolving landscape of the telecommunications industry, customer churn has become a critical challenge for service providers. The ability to predict and understand customer churn can significantly impact business success, customer retention strategies and increase customer service satisfaction.
 
@@ -132,7 +133,7 @@ The `Random Forest Classifier` stands out as the best-performing model due to it
 
 ## Getting Started🏁
 
-1. Clone this repository: `git clone https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction.git`
+1. Clone this repository: `[git clone https://github.com/Makafui-Kwawu/Customer-Churn-Prediction.git]'
 2. Navigate to the project directory: `LP2-Customer-Churn-Machine-Learning-Prediction`
 3. Explore the Jupyter notebooks for detailed steps and code execution.
 4. Check out the Power BI dashboard for interactive visualizations.
