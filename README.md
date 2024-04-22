@@ -94,13 +94,10 @@ The statistical analysis yielded a calculated statistic of `3100791.0`, accompan
 A snapshot of the conducted exploratory data analysis, aimed at addressing pivotal business inquiries during the analysis process.
 
 
- |          ![C1](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/80d6efad-e393-4086-af30-6fc45a8d7123)  |![C2](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/dda8cdae-d896-402e-8bb4-8afefa8421ac)
+  |  ![C1](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/80d6efad-e393-4086-af30-6fc45a8d7123)  |![C2](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/dda8cdae-d896-402e-8bb4-8afefa8421ac)
                                                                                                                                           
-
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-                                             
+                                           
 ![C3](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/5dfd4c2b-3da0-49dc-a590-71b48f7fc322)  ![C4](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/30be7148-b6f5-45ac-87e5-3cf169046173)
-
 
 
 ## Model Selection
