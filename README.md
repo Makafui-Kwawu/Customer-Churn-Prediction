@@ -1,6 +1,7 @@
 # 💼 Customer Churn Classification Prediction Project
 
-![article head image](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/e7431285-8c21-4c3c-9340-60fe57f7bc3f)
+
+![Churn photo](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/7b7d264b-3365-4f01-a5f6-fe60ab7db44a)
 
 In the dynamic and ever-evolving landscape of the telecommunications industry, customer churn has become a critical challenge for service providers. The ability to predict and understand customer churn can significantly impact business success, customer retention strategies and increase customer service satisfaction.
 
@@ -92,9 +93,12 @@ The statistical analysis yielded a calculated statistic of `3100791.0`, accompan
 
 A snapshot of the conducted exploratory data analysis, aimed at addressing pivotal business inquiries during the analysis process.
 
-| ![churn and contract](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/7884caa5-e04e-4b72-95b3-c2d54b93bcc4)         | ![churn and security](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/b5c8f74a-c978-47bb-9dee-21a90a6c029b)       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![monthly charges with churn](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/47e35bf3-7170-4091-b114-1c069ed3bd5a) | ![rel btn churn and tenure](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/d4aae51b-e3e6-43be-a5e3-92076136beec) |
+
+  |  ![C1](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/80d6efad-e393-4086-af30-6fc45a8d7123)  |![C2](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/dda8cdae-d896-402e-8bb4-8afefa8421ac)
+                                                                                                                                          
+                                           
+![C3](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/5dfd4c2b-3da0-49dc-a590-71b48f7fc322)  ![C4](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/30be7148-b6f5-45ac-87e5-3cf169046173)
+
 
 ## Model Selection
 
@@ -132,7 +136,7 @@ The `Random Forest Classifier` stands out as the best-performing model due to it
 
 ## Getting Started🏁
 
-1. Clone this repository: `git clone https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction.git`
+1. Clone this repository: `[git clone https://github.com/Makafui-Kwawu/Customer-Churn-Prediction.git]'
 2. Navigate to the project directory: `LP2-Customer-Churn-Machine-Learning-Prediction`
 3. Explore the Jupyter notebooks for detailed steps and code execution.
 4. Check out the Power BI dashboard for interactive visualizations.
