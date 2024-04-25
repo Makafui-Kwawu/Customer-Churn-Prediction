@@ -102,10 +102,11 @@ A snapshot of the conducted exploratory data analysis, aimed at addressing pivot
 
 ## Model Evaluation (Confusion Matrix)📉
 
-| Before Hyperparameter Tunning                                                                                                                            | After Hyperparameter Tunning                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Before Hyperparameter Tunning                                                                                                                                                                                                                                                     
 | ![CM1](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/19f1bb0f-b0b3-4055-9f0f-e1e664a249e6)
-                                                                                                                      |![CM2](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/e455ac5e-8f2b-4e9f-84cf-7ca2ac9cfa98)
+
+ | After Hyperparameter Tunning  
+|![CM2](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/e455ac5e-8f2b-4e9f-84cf-7ca2ac9cfa98)
 
 
 
