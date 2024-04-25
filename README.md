@@ -19,7 +19,6 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 - [Hypothesis Investigated](#hypothesis-investigated)
   - [Results](#results)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Model Selection](#model-selection)
 - [Model Evaluation (Confusion Matrix)](#model-evaluation-confusion-matrix)
 - [Classification Metrics Score](#classification-metrics-score)
 - [Recommendations](#recommendations)
@@ -100,25 +99,15 @@ A snapshot of the conducted exploratory data analysis, aimed at addressing pivot
 ![C3](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/5dfd4c2b-3da0-49dc-a590-71b48f7fc322)  ![C4](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/30be7148-b6f5-45ac-87e5-3cf169046173)
 
 
-## Model Selection
-
-![model per](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/f5522617-3f6f-4239-9a39-694cc6aac32d)
-The `Random Forest Classifier` stands out as the best-performing model due to its highest accuracy among the evaluated models `(85.48%)`. As accuracy is a key performance metric for our project, selecting the Random Forest Classifier ensures that we prioritize correctly predicting customer churn in our future predictions on the test dataset.
 
 ## Model Evaluation (Confusion Matrix)📉
 
 | Before Hyperparameter Tunning                                                                                                                            | After Hyperparameter Tunning                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![confusion matrix bef](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/ee7c2c25-02bc-4374-b4b4-632a832bd68e) | ![confusion matrix af](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/4f16a6fb-990f-4c41-8ecf-6e15668dc3bf) |
+| ![CM1](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/19f1bb0f-b0b3-4055-9f0f-e1e664a249e6)
+                                                                                                                      |![CM2](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/e455ac5e-8f2b-4e9f-84cf-7ca2ac9cfa98)
 
-## Classification Metrics Score
 
-| Metric    | Score  |
-| --------- | ------ |
-| Accuracy  | 87.39% |
-| Precision | 86.8%  |
-| Recall    | 87.8%  |
-| F1        | 93.5%  |
 
 ## Recommendations
 
