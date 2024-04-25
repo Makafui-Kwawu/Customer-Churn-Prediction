@@ -28,7 +28,8 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 
 ## Project Structure📂
 
-- `code/`: Contains the dataset used for analysis and the Jupyter notebook detailing the data exploration, preprocessing, and model building steps.
+- `Data/`: Contains the dataset used for analysis.
+- `Customer_Churn_Prediction/`: the  Jupyter notebook detailing the data exploration, preprocessing, and model building steps.
 - `article/`: Holds project-related article.
 - `customer churn analysis.pbix`: The file for the deployed Power BI dashboard.
 - `LICENSE`: Project license.
@@ -102,11 +103,9 @@ A snapshot of the conducted exploratory data analysis, aimed at addressing pivot
 
 ## Model Evaluation (Confusion Matrix)📉
 
-| Before Hyperparameter Tunning                                                                                                                                                                                                                                                     
-| ![CM1](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/19f1bb0f-b0b3-4055-9f0f-e1e664a249e6)
-
- | After Hyperparameter Tunning  
-|![CM2](https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/e455ac5e-8f2b-4e9f-84cf-7ca2ac9cfa98)
+Before Hyperparameter Tunning | After Hyperparameter Tunning
+------------------------------|------------------------------
+<img src="https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/19f1bb0f-b0b3-4055-9f0f-e1e664a249e6" alt="CM1" width="400"/> | <img src="https://github.com/Makafui-Kwawu/Customer-Churn-Prediction/assets/160020850/e455ac5e-8f2b-4e9f-84cf-7ca2ac9cfa98" alt="CM2" width="400"/>
 
 
 
